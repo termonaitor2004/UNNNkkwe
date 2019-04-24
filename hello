@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="yes_94r_icon.ico" type="image/x-icon"/>
+<meta charset="UTF-8" />
+
+<style id="webmakerstyle">
+
+</style>
+</head>
+<body>
+  <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>high</title>
+        <script type="text/javascript" src="date_time.js"></script>
+		<script type="text/javascript">
+			function date_time(id)
+{
+        date = new Date;
+        year = date.getFullYear();
+        month = date.getMonth();
+        months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'Jully', 'August', 'September', 'October', 'November', 'December');
+        d = date.getDate();
+        day = date.getDay();
+        days = new Array('Sunday,', 'Monday,', 'Tuesday,', 'Wednesday', 'Thursday,', 'Friday,', 'Saturday,');
+        h = date.getHours();
+        if(h<10)
+        {
+                h = "0"+h;
+        }
+        m = date.getMinutes();
+        if(m<10)
+        {
+                m = "0"+m;
+        }
+        s = date.getSeconds();
+        if(s<10)
+        {
+                s = "0"+s;
+        }
+        result = ''+days[day]+' '+months[month]+' '+d+' '+year+' '+h+':'+m+':'+s;
+        document.getElementById(id).innerHTML = result;
+        setTimeout('date_time("'+id+'");','1000');
+        return true;
+}
+			</script>
+		<style type="text/css">
+			 body {
+  background-color: black;
+  color: blue;
+	border-style:solid;
+	border-color:blue;
+}
+#life{
+  border-style: ridge;
+  border-width: 5px;
+  color: white;
+  border-color: blue;
+  width: 150px;
+}
+body1{
+  color:white;
+}
+ul {
+  color:blue;
+	text-align: left;
+}
+h1 {
+  text-align:center;
+}
+p1 {
+  font-style:
+  text-indent: 50px;
+}
+p{
+  text-align:;
+}
+#sucks{
+	border-style:ridge;
+	border-width:3px;
+	border-color:blue;
+}
+body2{
+	color:white;
+}
+p5{
+	color:red;
+}
+			</style>
+    </head>
+<center><h8>"HIGH"</h8></center>
+<div id="sucks">
+	<center>
+    <body>
+            <span id="date_time"></span>
+            <script type="text/javascript">window.onload = date_time('date_time');</script>
+    </body></center>
+</div>
+  <body2>
+	<center><div id="life">
+<ul>
+  <li>
+<a href="http://www.shellshock.io">shellshock</a>
+<br />
+  </li>
+  <li>
+<a href="https://krunker.io">krunker</a>
+<br/>
+    </li>
+  <li>
+<a href="https://www.the-outbreak.com"/>the outbreak</a>
+<br/>
+  </li>
+    <li>
+<a href="https://www.surviv.io"/>surviv</a>
+<br/>
+</li>
+<li>
+<a href="https://www.deviantart.com/">deviant art</a>
+<br/>
+  </li>
+<li>
+<a href="https://playclassic.games">DOOM</a>
+<br />
+  </li>
+<li>
+<a href="http://zh.pixel-cave.com/">zombie hunters</a>
+<br />
+</li>
+<li>
+<a href="https://www.kongregate.com/">kongregate</a>
+<br />
+  </li>
+<li>
+<a href="https://tankionline.com/en">tanki</a>
+<br />
+  </li>
+<li>
+<a href="http://www.freeasteroids.org/">astroids</a>
+<br />
+  </li>
+<li>
+<a href="https://romsmode.com">Roms</a>
+<br />
+  </li>
+<li>
+<a href="https://www.retroarch.com/">Retro arch</a>
+<br />
+  </li>
+<li>
+<a href="http://emulator.games/roms/gameboy-advance/">GBA</a>
+<br />
+  </li>
+<li>
+<a href="https://moomoo.io/">Moo Moo</a>
+<br />
+  </li>
+<li>
+<a href="https://diep.io/?language=en">Diep.io</a>
+<br />
+</li>
+<li>
+<a href="https://www.supermechs.com/">Super Mechs</a>
+<br />
+</li>
+<li>
+<a href="https://ahmia.fi/">bweb</a>
+<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+<li>
+	<a href="https://"></a>
+	<br />
+</li>
+</ul>
+</div>
+</center
+    </body2>
+<body1>
+  <h1></h1>
+  <center><p1><b>
+		 <img src="yes.jpg"/>
+		</b></p1></center>
+</body1>
+<p5><center><center></p5>
+	<tyle type="text/js">
+		<p id="dinefick"></p>
+<script>
+var countDownDate = new Date("dec 1, 2019").getTime();
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  document.getElementById("dinefick").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("dinefick").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+		<style>
+			<style>
+#div1 {
+  font-size:48px;
+}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body8>
+<div id="div1" class="fa"></div>
+<script>
+function hand() {
+  var a;
+  a = document.getElementById("div1");
+  a.innerHTML = "&#xf25a;";
+  setTimeout(function () {
+      a.innerHTML = "&#xf256;";
+    }, 500);
+  setTimeout(function () {
+      a.innerHTML = "&#xf259;";
+    }, 1000);
+  setTimeout(function () {
+      a.innerHTML = "&#xf256;";
+    }, 1500);
+}
+hand();
+setInterval(hand, 2000);
+</script>
+<p8></p8>
+</body8>
+
+
+<script src="filesystem:https://webmaker.app/temporary/script.js">
+</script>
+</body>
+</html>
